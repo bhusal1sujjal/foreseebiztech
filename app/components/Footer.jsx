@@ -41,7 +41,7 @@ const Footer = () => {
         </div>
 
         <p className="text-center text-xl text-gray-600 mb-6">
-            || Developed & Designed by <a href='http://sujjalbhusal.com.np/' target='_blank' ><span className="font-semibold">Sujjal Bhusal</span> </a>||
+            | Developed & Designed by <a href='http://sujjalbhusal.com.np/' target='_blank' ><span className="font-semibold">Sujjal Bhusal</span> </a>|
         </p>
 
     </div>
